@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CatsComposeApp</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="roll">Roll</string>
+    <string name="garder">Garder</string>
+    <string name="nouveau">Nouveau</string>
+
+</resources>
